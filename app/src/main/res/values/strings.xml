@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchViewDemo</string>
+    <string name="action_search">Action Search</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="search">Search</string>
+    <string name="placeholder">Placeholder</string>
+</resources>
